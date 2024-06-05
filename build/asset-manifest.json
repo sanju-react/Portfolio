@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7710bbfd.css",
+    "main.js": "/static/js/main.974ac69d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project-management-tool.png": "/static/media/project-management-tool.3484447d53e37167b215.png",
+    "static/media/e-gallery.png": "/static/media/e-gallery.d29da779181734d5c919.png",
+    "static/media/logo.png": "/static/media/logo.d865e015f320164e2a32.png",
+    "static/media/apex-college.png": "/static/media/apex-college.fb6739213a245b6e0cfa.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/AYUSH VARMA CV.pdf": "/static/media/AYUSH VARMA CV.25f91aa28c5736f06f91.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.7710bbfd.css.map": "/static/css/main.7710bbfd.css.map",
+    "main.974ac69d.js.map": "/static/js/main.974ac69d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7710bbfd.css",
+    "static/js/main.974ac69d.js"
+  ]
+}
