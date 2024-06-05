@@ -1,26 +1,26 @@
-# Ayush Varma Portfolio
+# Ramashankar Pandey Portfolio
 
-Welcome to Ayush Varma's portfolio website! This platform showcases Ayush's skills, projects, and experiences as a software developer. The website is designed with a modern and responsive user interface, developed using React for the frontend, Firebase for the backend, and styled with the Tailwind CSS framework.
+Welcome to Ramashankar Pandey's portfolio website! This platform showcases Ramashankar's skills, projects, and experiences as a software developer. The website is designed with a modern and responsive user interface, developed using React for the frontend, Firebase for the backend, and styled with the Tailwind CSS framework.
 
 ## Navigation
 
-- **Home:** Get a brief introduction to Ayush Varma and navigate through the different sections of the portfolio.
-- **About:** Learn more about Ayush's background, skills, and interests.
-- **Projects:** Explore some of Ayush's recent works and projects.
-- **Resume:** Dive into Ayush's professional journey, skills, and education.
+- **Home:** Get a brief introduction to Ramashankar Pandey and navigate through the different sections of the portfolio.
+- **About:** Learn more about Ay's background, skills, and interests.
+- **Projects:** Explore some of Ramashankar's recent works and projects.
+- **Resume:** Dive into Ramashankar's professional journey, skills, and education.
 
 ## Home
 
-![Ayush Varma](home-pic-url) <!-- Replace with the URL of your home picture -->
+![Ramashankar Pandey](home-pic-url) <!-- Replace with the URL of your home picture -->
 ### Hi There! 👋🏻
 
-I'm Ayush Varma, a software developer passionate about building web technologies and products. My expertise includes PHP, JavaScript, and C++. I love working with Node.js and modern JavaScript libraries and frameworks like React.js and Next.js.
+I'm Ramashankar Pandey, a software developer passionate about building web technologies and products. My expertise includes PHP, JavaScript, and C++. I love working with Node.js and modern JavaScript libraries and frameworks like React.js and Next.js.
 
 ### Let Me Introduce Myself
 
 I fell in love with programming, and I have at least learned something, I think… 🤷‍♂️. My field of interest includes building new web technologies, products, and areas related to Artificial Intelligence (AI).
 
-![Ayush Varma Avatar](avatar-url) <!-- Replace with the URL of your avatar -->
+![Ramashankar Pandey Avatar](avatar-url) <!-- Replace with the URL of your avatar -->
 
 ### Find Me On
 
@@ -29,14 +29,14 @@ Feel free to connect with me through the following channels:
 - [GitHub](github-url)
 - [Email](mailto:your-email@example.com)
 
-**Designed and Developed by Ayush Varma**
+**Designed and Developed by Ramashankar Pandey**
 Copyright © 2024 AV, AV
 
 ## About
 
 ### Know Who I Am
 
-Hi everyone, I am Ayush Varma from Surat, India. I am currently interning as a React.js Developer at The Diamond Port. I have completed Integrated BCA in Web Development at VNSGU.
+Hi everyone, I am Ramashankar Pandey from Surat, India. I am currently interning as a React.js Developer at The Diamond Port. I have completed Integrated BCA in Web Development at VNSGU.
 
 Apart from coding, some other activities that I love to do:
 - Playing Games
@@ -45,7 +45,7 @@ Apart from coding, some other activities that I love to do:
 
 "Code with purpose, craft with passion!"
 
-**Ayush Varma**
+**Ramashankar Pandey**
 
 ### Professional Skillset
 
@@ -87,5 +87,5 @@ As a React.js Intern at The Diamond Port, I contributed to the development of dy
 - Problem-Solving and Innovation
 - Continuous Learning and Growth
 
-**Designed and Developed by Ayush Varma**
+**Designed and Developed by Ramashankar Pandey**
 Copyright © 2024 AV, AV
